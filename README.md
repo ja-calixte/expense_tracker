@@ -1,5 +1,14 @@
-# expense_tracker
+# Expense Tracker
 # https://roadmap.sh/projects/expense-tracker
+
+# FEATURES
+# 1. Users can add an expense with a description and amount.
+# 2. Users can update an expense.
+# 3. Users can delete an expense.
+# 4. Users can view all expenses.
+# 5. Users can view a summary of all expenses.
+# 6. Users can view a summary of expenses for a specific month (of the current year).
+# 7. Allow users to export expenses to a CSV file.
 
 # MAIN MENU OF THE PROGRAM
 # This will allow the user:
